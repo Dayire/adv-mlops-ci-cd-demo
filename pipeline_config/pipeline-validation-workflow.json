@@ -21,7 +21,8 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "labuser10452018_1748515969@vocareum.com"
+
+          "s.rachid.riad@gmail.com"
         ]
       }
     },
@@ -37,7 +38,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "labuser10452018_1748515969@vocareum.com"
+          "s.rachid.riad@gmail.com"
         ]
       }
     },
@@ -53,7 +54,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "labuser10452018_1748515969@vocareum.com"
+          "s.rachid.riad@gmail.com"
         ]
       }
     },
@@ -84,7 +85,7 @@
       },
       "email_notifications": {
         "on_success": [
-          "labuser10452018_1748515969@vocareum.com"
+          "s.rachid.riad@gmail.com"
         ]
       }
     },
@@ -115,7 +116,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "labuser10452018_1748515969@vocareum.com"
+          "s.rachid.riad@gmail.com"
         ]
       }
     },
@@ -131,7 +132,7 @@
       "run_if": "ALL_SUCCESS",
       "email_notifications": {
         "on_success": [
-          "labuser10452018_1748515969@vocareum.com"
+          "s.rachid.riad@gmail.com"
         ]
       }
     }
